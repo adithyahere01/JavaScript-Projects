@@ -1,2 +1,2 @@
-# 15-JavaScript-Projects
+# JavaScript-Projects
 Learning JS basics by doing simple projects
